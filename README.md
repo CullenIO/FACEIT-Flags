@@ -1,6 +1,8 @@
 # FaceIT Flags
 Adds flags to FaceIT's match lobbies
 
+![Faceit Flags Example Screenshot](http://image.prntscr.com/image/751c8f5c41a8418aabcca741bda98522.png)
+
 To use, simply add this code to a bookmark as the url:
 ```
 javascript:$('strong[ng-bind="::teamMember.nickname"]').each(function(a){
