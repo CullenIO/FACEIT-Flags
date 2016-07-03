@@ -32,4 +32,5 @@ In the url box, paste the code.
 When on the FaceIT match page, click the bookmark and it will activate.
 
 Chrome: https://support.google.com/chrome/answer/95745?hl=en-GB
+
 Firefox: https://support.mozilla.org/en-US/kb/bookmarks-toolbar-display-favorite-websites
