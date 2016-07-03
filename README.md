@@ -13,7 +13,7 @@ uot;]').eq(a).append(t)})});
 
 To display CSGO levels aswell, use this code:
 ```
-$('strong[ng-bind="::teamMember.nickname"]').each(function(e){
+javascript:$('strong[ng-bind="::teamMember.nickname"]').each(function(e){
 var s=$(this).html();$.getJSON("https://api.faceit.com/api/nicknames/
 "+s,function(s){var a=s.payload.country,n="<img style='margin-left: 4px;'
 class='flag flag--16' src='https://cdn.faceit.com/frontend/159/assets/
